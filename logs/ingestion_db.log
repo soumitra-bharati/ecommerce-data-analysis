@@ -1,0 +1,27 @@
+2025-07-23 11:51:28,249 INFO     Ingesting customers.csv in db
+2025-07-23 11:51:30,304 INFO     Ingesting geolocation.csv in db
+2025-07-23 11:51:46,544 INFO     Ingesting orders.csv in db
+2025-07-23 11:51:48,643 INFO     Ingesting order_items.csv in db
+2025-07-23 11:51:50,903 INFO     Ingesting payments.csv in db
+2025-07-23 11:51:52,522 INFO     Ingesting products.csv in db
+2025-07-23 11:51:53,383 INFO     Ingesting sellers.csv in db
+2025-07-23 11:51:53,433 INFO     All CSVs ingested successfully.
+2025-07-23 11:51:53,433 INFO     Total time taken: 0.4219990650812785 minutes
+2025-07-23 12:43:03,701 INFO     Ingesting customers.csv in db
+2025-07-23 12:43:05,798 INFO     Ingesting geolocation.csv in db
+2025-07-23 12:43:22,411 INFO     Ingesting orders.csv in db
+2025-07-23 12:43:24,577 INFO     Ingesting order_items.csv in db
+2025-07-23 12:43:26,915 INFO     Ingesting payments.csv in db
+2025-07-23 12:43:28,486 INFO     Ingesting products.csv in db
+2025-07-23 12:43:29,179 INFO     Ingesting sellers.csv in db
+2025-07-23 12:43:29,237 INFO     All CSVs ingested successfully.
+2025-07-23 12:43:29,237 INFO     Total time taken: 0.4277185320854187 minutes
+2025-07-23 13:03:53,298 INFO     Ingesting customers.csv in db
+2025-07-23 13:03:55,223 INFO     Ingesting geolocation.csv in db
+2025-07-23 13:04:11,989 INFO     Ingesting orders.csv in db
+2025-07-23 13:04:14,025 INFO     Ingesting order_items.csv in db
+2025-07-23 13:04:16,095 INFO     Ingesting payments.csv in db
+2025-07-23 13:04:17,725 INFO     Ingesting products.csv in db
+2025-07-23 13:04:18,476 INFO     Ingesting sellers.csv in db
+2025-07-23 13:04:18,531 INFO     All CSVs ingested successfully.
+2025-07-23 13:04:18,531 INFO     Total time taken: 0.422609273592631 minutes
